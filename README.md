@@ -1,20 +1,12 @@
-# MutualFundTracker
-
 # 📊 Mutual Fund Tracker
 
 A **financial planning and investment management app** built to empower Indian mutual fund investors with clarity, control, and confidence.  
 
 ---
 
-## 🌟 Why This Project? (The Story)
+## 🌟 Why This Project? 
 
-Growing up in India, I often saw friends and family struggle with fragmented tools to track mutual funds. Excel sheets, scattered apps, and manual calculations made it hard to answer simple questions like:  
-
-- *“Am I on track for my retirement?”*  
-- *“What will my SIP actually be worth in real terms after inflation?”*  
-- *“Which funds fit my risk tolerance?”*  
-
-This app was born out of that pain point. My goal: **bridge the gap between complex finance and everyday users** by creating a **human-friendly, problem-solving platform** that non-IT investors can actually use.  
+In India, many people struggled to track their mutual funds. They used Excel sheets or multiple apps, but still couldn’t answer questions like: Am I on track for retirement? Is my SIP enough? Which fund suits my risk? I built this app to solve that problem—one simple platform to search funds, plan SIPs, and track portfolios without the confusion.
 
 ---
 
@@ -22,7 +14,7 @@ This app was born out of that pain point. My goal: **bridge the gap between comp
 
 - **Live NAV Integration** → 6000+ schemes with daily SEBI-compliant updates  
 - **Advanced SIP Calculator** → Step-up SIPs, inflation adjustments, flexible parameters  
-- **Goal-based Planning** → Retirement, child’s education, house down payment and more  
+- **Goal-based Planning** → Retirement, child’s education, house down payment, and more  
 - **Fund Discovery** → Smart search, risk categories, and detailed fund metrics  
 - **Portfolio Management** → Multiple portfolios, performance analytics, gain/loss tracking  
 
@@ -111,8 +103,8 @@ This project showcases more than coding skills:
 Finance should feel **empowering, not overwhelming**.  
 This app is not just a project—it’s a **proof of my problem-solving mindset**:  
 
-- Listen to real-world problems  
-- Design around human needs  
-- Engineer secure, scalable, practical solutions  
+- Listen to real-world problems. 
+- Design around human needs.  
+- Engineer secure, scalable, practical solutions.
 
-📩 *Open to conversations on how I can bring this mindset into your team.
+📩 Let’s talk about how I can bring this problem-solving mindset and product-building experience to your team—driving clarity, impact, and real business results.
