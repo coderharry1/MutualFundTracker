@@ -73,9 +73,14 @@ This app isn’t designed for coders—it’s designed for investors.
 
 ---
 
-## 🚀 Demo Video
+## 🎥 Live Demo
 
-https://youtu.be/iEwT4l5mEpM
+I’ve put together a short walkthrough to show exactly how the **Mutual Fund Tracker** works and how it solves real problems for everyday investors.  
+
+👉 [**Watch the Demo Video on YouTube**](https://youtu.be/iEwT4l5mEpM)  
+
+[![Mutual Fund Tracker Demo](https://img.youtube.com/vi/iEwT4l5mEpM/0.jpg)](https://youtu.be/iEwT4l5mEpM)
+
 
 ---
 
