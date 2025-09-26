@@ -71,6 +71,14 @@ This app isn’t designed for coders—it’s designed for investors.
 
 ---
 
+---
+
+## 🚀 Demo Video
+
+https://youtu.be/iEwT4l5mEpM
+
+---
+
 ## 🎯 Why It Matters
 
 This project showcases more than coding skills:  
